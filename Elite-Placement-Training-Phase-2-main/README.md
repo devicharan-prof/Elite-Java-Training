@@ -72,5 +72,7 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
-
+AUTHOR 
+DEVICHARAN P
+Who is a aspiring Fullstack developer !
 
